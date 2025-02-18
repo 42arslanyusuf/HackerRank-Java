@@ -1,0 +1,1 @@
+[JavaSingletonPattern](https://www.hackerrank.com/challenges/java-singleton/problem)
