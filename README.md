@@ -1,6 +1,13 @@
 [HackerRank Java soru çözümleri](https://www.hackerrank.com/domains/java?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=java)
 
 1- [Introduction](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction)
+  - [WelcomeToJava](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_001_WelcomeToJava)
+  - [StdinAndStdoutI](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_002_StdinAndStdoutI)
+  - [IfElse](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_003_IfElse)
+  - [StdinAndStdoutII](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_004_StdinAndStdoutII)
+  - [OutputFormatting](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_005_OutputFormatting)
+  - [LoopsI](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_006_LoopsI)
+  - [LoopsII](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_007_LoopsII)
 
 2- [Strings](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings)
 
