@@ -8,7 +8,13 @@
   - [OutputFormatting](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_005_OutputFormatting)
   - [LoopsI](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_006_LoopsI)
   - [LoopsII](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_007_LoopsII)
-
+  - [Datatypes](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_008_Datatypes)
+  - [EndOfFile](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_009_EndOfFile)
+  - [StaticInitializerBlock](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_010_StaticInitializerBlock)
+  - [IntToString](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_011_IntToString)
+  - [DateAndTime](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_012_DateAndTime)
+  - [CurrencyFormatter](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Introduction/_013_CurrencyFormatter)
+    
 2- [Strings](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings)
 
 3- [BigNumber](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/BigNumber)
