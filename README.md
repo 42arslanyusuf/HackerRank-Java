@@ -21,6 +21,10 @@
   - [SubstringComparisons](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_003_SubstringComparisons)
   - [StringReverse](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_004_StringReverse)
   - [Anagrams](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_005_Anagrams)
+  - [StringTokens](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_006_StringTokens)
+  - [PatternSyntaxChecker](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_007_PatternSyntaxChecker)
+  - [JavaRegex](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_008_JavaRegex)
+  - [ValidUsernameRegularExpression](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_009_ValidUsernameRegularExpression)
 
 3- [BigNumber](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/BigNumber)
 
