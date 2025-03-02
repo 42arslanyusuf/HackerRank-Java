@@ -19,7 +19,7 @@
   - [StringsIntroduction](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_001_StringsIntroduction)
   - [Substring](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_002_Substring)
   - [SubstringComparisons](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_003_SubstringComparisons)
-  - [StringReverse](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_004_StringReverse)
+  - [StringReverse]()
   - [Anagrams](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_005_Anagrams)
   - [StringTokens](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_006_StringTokens)
   - [PatternSyntaxChecker](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_007_PatternSyntaxChecker)
@@ -27,6 +27,7 @@
   - [ValidUsernameRegularExpression](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Strings/_009_ValidUsernameRegularExpression)
 
 3- [BigNumber](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/BigNumber)
+  - [BigInteger](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/BigNumber/_001_BigInteger)
 
 4- [DataStructures](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures)
 
