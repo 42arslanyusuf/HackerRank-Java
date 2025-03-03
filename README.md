@@ -28,6 +28,7 @@
 
 3- [BigNumber](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/BigNumber)
   - [BigInteger](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/BigNumber/_001_BigInteger)
+  - [PrimalityTest](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/BigNumber/_002_PrimalityTest)
 
 4- [DataStructures](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures)
 
