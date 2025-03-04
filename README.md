@@ -31,6 +31,11 @@
   - [PrimalityTest](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/BigNumber/_002_PrimalityTest)
 
 4- [DataStructures](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures)
+  - [1DArray](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures/_001_1DArray)
+  - [ArrayList](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures/_002_ArrayList)
+  - [List](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures/_003_List)
+  - [Generics](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures/_004_Generics)
+  - [2DArray](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures/_005_2DArray)
 
 5- [ObjectOrientedProgramming](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming)
 
