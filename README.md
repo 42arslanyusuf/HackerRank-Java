@@ -36,6 +36,9 @@
   - [List](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures/_003_List)
   - [Generics](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures/_004_Generics)
   - [2DArray](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures/_005_2DArray)
+  - [JavaMap](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures/_006_JavaMap)
+  - [JavaComparator](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures/_007_JavaComparator)
+  - [JavaHashSet](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures/_008_JavaHashSet)
 
 5- [ObjectOrientedProgramming](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming)
 
