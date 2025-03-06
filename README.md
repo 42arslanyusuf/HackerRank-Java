@@ -41,6 +41,11 @@
   - [JavaHashSet](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/DataStructures/_008_JavaHashSet)
 
 5- [ObjectOrientedProgramming](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming)
+  - [InheritanceI](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming/_001_InheritanceI)
+  - [InheritanceII](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming/_002_InheritanceII)
+  - [AbstractClass](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming/_003_AbstractClass)
+  - [Inheritance](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming/_004_Inheritance)
+  - [MethodOverriding](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming/_005_MethodOverriding)
 
 6- [ExceptionHandling](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ExceptionHandling)
 
