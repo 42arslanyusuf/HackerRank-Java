@@ -46,6 +46,9 @@
   - [AbstractClass](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming/_003_AbstractClass)
   - [Inheritance](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming/_004_Inheritance)
   - [MethodOverriding](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming/_005_MethodOverriding)
+  - [MethodOverriding2SuperKeyword](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming/_006_MethodOverriding2SuperKeyword)
+  - [InstanceofKeyword](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming/_007_InstanceofKeyword)
+  - [Iterator](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming/_008_Iterator)
 
 6- [ExceptionHandling](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ExceptionHandling)
 
