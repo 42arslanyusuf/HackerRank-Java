@@ -51,5 +51,7 @@
   - [Iterator](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ObjectOrientedProgramming/_008_Iterator)
 
 6- [ExceptionHandling](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ExceptionHandling)
+  - [ExceptionHandlingTryCatch](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ExceptionHandling/_001_ExceptionHandlingTryCatch)
+  - [ExceptionHandling](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ExceptionHandling/_002_ExceptionHandling)
 
 7- [Advanced](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced)
