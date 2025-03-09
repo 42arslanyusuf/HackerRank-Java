@@ -55,3 +55,6 @@
   - [ExceptionHandling](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/ExceptionHandling/_002_ExceptionHandling)
 
 7- [Advanced](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced)
+  - [JavaVarargs](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced/_001_JavaVarargs)
+  - [JavaAnnotation](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced/_002_JavaAnnotation)
+  - [JavaMD5](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced/_003_JavaMD5)
