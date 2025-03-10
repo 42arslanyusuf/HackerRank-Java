@@ -58,3 +58,6 @@
   - [JavaVarargs](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced/_001_JavaVarargs)
   - [JavaAnnotation](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced/_002_JavaAnnotation)
   - [JavaMD5](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced/_003_JavaMD5)
+  - [JavaSHA256](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced/_004_JavaSHA256)
+  - [CovariantReturnTypes](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced/_005_CovariantReturnTypes)
+  - [JavaSingletonPattern](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced/_006_JavaSingletonPattern)
