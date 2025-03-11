@@ -61,3 +61,4 @@
   - [JavaSHA256](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced/_004_JavaSHA256)
   - [CovariantReturnTypes](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced/_005_CovariantReturnTypes)
   - [JavaSingletonPattern](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced/_006_JavaSingletonPattern)
+  - [JavaFactoryPattern](https://github.com/42arslanyusuf/HackerRank-Java/tree/main/src/Advanced/_007_JavaFactoryPattern)
